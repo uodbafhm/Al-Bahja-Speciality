@@ -1,0 +1,7 @@
+{
+  "name": "Al Bahja Speciality Dental Center",
+  "description": "Next-level professional dental clinic website for Dr. Alami, featuring ultra-modern design, real-time status tracking, and multi-language support.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
